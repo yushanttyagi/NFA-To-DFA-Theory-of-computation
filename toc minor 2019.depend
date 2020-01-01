@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1573720142 source:c:\program files (x86)\codeblocks\cpp codeblocks\toc minor 2019\main.cpp
+	<bits/stdc++.h>
+	"declarations_.h"
+
+1573665117 c:\program files (x86)\codeblocks\cpp codeblocks\toc minor 2019\header.h
+
+1573720142 c:\program files (x86)\codeblocks\cpp codeblocks\toc minor 2019\declarations_.h
+
